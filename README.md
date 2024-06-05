@@ -10,3 +10,5 @@ This repository majorly deals with a hands-on experiences for the following
 7. **Interim Feedback**: Schedule periodic reviews and feedback sessions with your instructor or peers to stay on track and address any challenges early.
 8. **Advanced Analytics**: Towards the end of the project, explore integrating machine learning models for predictive analytics to enhance your insights.
 9. **Documentation and Reporting**: Maintain thorough documentation of your processes and findings. Prepare clear and concise reports to present your results effectively.
+
+Also we will be providing the datasets as well as the alternative codes inorder enhance your understanding.
